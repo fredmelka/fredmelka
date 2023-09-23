@@ -5,7 +5,7 @@
 - 💞️ I’m looking to develop innovative businesses as a software engineer.
 - 📫 How to reach me, fred.melka@gmail.com.
 
-![](https://www.codewars.com/users/fredmelka/badges/small)
+![codewars badge](https://www.codewars.com/users/fredmelka/badges/large)
 
 <!---
 fredmelka/fredmelka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
