@@ -1,8 +1,8 @@
 ### Welcome to my page
 - 👋 Hi, I’m Fred Melka!
-- 👀 I’m interested in Software Engineering and Economics,
+- 💞️ I’m interested in Software Engineering and Economics,
 - 🌱 I’m currently rehearsing art of coding!.
-- 💞️ I’m looking to develop innovative businesses as a software engineer.
+- 👀 I’m looking to develop innovative businesses as a software engineer.
 - 📫 How to reach me, fred.melka@gmail.com.
 
 ![codewars badge](https://www.codewars.com/users/fredmelka/badges/large)
