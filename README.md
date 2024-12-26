@@ -1,8 +1,8 @@
 ### Welcome to my page
-- 👋 Hi, I’m Fred Melka!
-- 💞️ I’m interested in Software Engineering and Economics,
-- 🌱 I’m currently rehearsing art of coding!.
-- 👀 I’m looking to develop innovative businesses as a software engineer.
+- 👋 Good morning, I am Fred Melka!
+- 💞️ I am seasoned full stack developer, specialised in Game theory and complex algorithms.
+- 🌱 I love rehearsing art of coding.
+- 👀 I develop innovative businesses as a software engineer.
 - 📫 How to reach me, fred.melka@gmail.com.
 
 ![codewars badge](https://www.codewars.com/users/fredmelka/badges/large)
