@@ -1,6 +1,6 @@
 ### Welcome to my page
 - 👋 Good morning, I am Fred Melka!
-- 💞️ I am seasoned full stack developer, specialised in Game theory and complex algorithms.
+- 💞️ I am seasoned full stack developer, specialized in game theory and complex algorithms.
 - 🌱 I love rehearsing art of coding.
 - 👀 I develop innovative businesses as a software engineer.
 - 📫 How to reach me, fred.melka@gmail.com.
